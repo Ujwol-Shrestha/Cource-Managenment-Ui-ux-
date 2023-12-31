@@ -1,0 +1,11 @@
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA mannagement system.vbproj.AssemblyReference.cache
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA_mannagement_system.BCA.resources
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA mannagement system.vbproj.GenerateResource.cache
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA mannagement system.GeneratedMSBuildEditorConfig.editorconfig
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA mannagement system.AssemblyInfoInputs.cache
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA mannagement system.AssemblyInfo.vb
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA mannagement system.vbproj.CoreCompileInputs.cache
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA_mannagement_system.Form2.resources
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA_mannagement_system.Form3.resources
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA_mannagement_system.Form4.resources
+E:\project1234\project\BCA mannagement system\BCA mannagement system\obj\Debug\netcoreapp3.1\BCA_mannagement_system.Form5.resources
